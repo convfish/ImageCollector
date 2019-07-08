@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <paths>
+        <external-path name="hm_DCIM" path="DCIM/camerademo" />
+        <external-path name="hm_Pictures" path="Pictures/camerademo" />
+        <files-path name="hm_private_files" path="images" />
+        <cache-path name="hm_private_cache" path="images" />
+        <external-files-path name="hm_external_files" path="Pictures" />
+        <external-cache-path name="hm_external_cache" path="" />
+    </paths>
+</resources>
